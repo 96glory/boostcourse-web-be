@@ -1,4 +1,4 @@
-package kr.or.connect;
+package kr.or.connect.Bean_IoC;
 
 public class UserBean {
 /*

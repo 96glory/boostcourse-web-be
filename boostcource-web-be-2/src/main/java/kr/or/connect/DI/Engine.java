@@ -1,5 +1,8 @@
 package kr.or.connect.DI;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class Engine {
 
     public Engine(){
